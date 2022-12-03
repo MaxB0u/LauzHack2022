@@ -1,1 +1,1 @@
-Repositoro for our LauzHack 2022 project
+Repository for our LauzHack 2022 project
